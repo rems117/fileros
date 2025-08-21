@@ -62,15 +62,17 @@ def main():
             print(f"Connected to {ip_address}")
             while True:
 
-                """
+                """ это пока не работает, но может еще пригодится
                 # Read input registers
                 input_regs = client.read_input_registers(0, count=6)
                 print("Input Registers:", input_regs.registers)
                 """
 
                 # Read holding registers
-                holding_regs = client.read_holding_registers(0, count=7)
-                print("Holding Registers:", holding_regs.registers)
+                holding_regs = client.read_holding_registers(2, count=3)
+                registers: list = holding_regs.registers
+
+                print("Holding Registers:", registers)
 
                 # Sleep for a second
                 time.sleep(1)
