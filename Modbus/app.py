@@ -12,10 +12,9 @@ from datetime import datetime
 
 from pymodbus.client import ModbusTcpClient
 
-# Define the Modbus TCP server IP address
 ip_address = "192.168.0.208"
 ip_address = "127.0.0.1"
-port = 502  # Default Modbus TCP port
+port = 502
 
 
 # Function to get current time
@@ -51,7 +50,6 @@ def registers_to_float(register1, register2):
 
 def main():
 
-    # Initialize Modbus TCP client
     client = ModbusTcpClient(ip_address, port=port)
 
     try:
@@ -60,6 +58,7 @@ def main():
             print(f"Failed to connect to {ip_address}")
         else:
             print(f"Connected to {ip_address}")
+
             while True:
 
                 """ это пока не работает, но может еще пригодится
@@ -69,7 +68,7 @@ def main():
                 """
 
                 # Read holding registers
-                holding_regs = client.read_holding_registers(2, count=3)
+                holding_regs = client.read_holding_registers(0, count=10)
                 registers: list = holding_regs.registers
 
                 print("Holding Registers:", registers)
