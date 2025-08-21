@@ -14,6 +14,7 @@
 
     modbus
     https://habr.com/ru/companies/advantech/articles/450234/
+    https://www.modbustools.com/download.html
 
     Weintek
     https://www.weintek.net/easybuilderpro.html
