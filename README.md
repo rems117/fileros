@@ -14,6 +14,8 @@
 
     modbus
     https://habr.com/ru/companies/advantech/articles/450234/
+    https://www.modbustools.com/download.html
+    https://ipc2u.ru/articles/prostye-resheniya/modbus-rtu/
 
     Weintek
     https://www.weintek.net/easybuilderpro.html
@@ -28,6 +30,9 @@
     https://ftp.owen.ru/CoDeSys3/98_Books/RaspberryCodesysV3Faq.pdf
     https://github.com/RAA80/python-owen/tree/main
     https://sourceforge.net/projects/pymodslave/files/latest/download   !! работает но float принимать не хочет
+
+    pymodbus
+    https://pymodbus.readthedocs.io/en/latest/ Документация и примеры кода, в т.ч. async
 
     others
     https://habr.com/ru/articles/680902/
@@ -49,3 +54,8 @@
     discrete inputs ?
     input registers ?
     holding registers ?
+
+Устройства:
+    1) ПЛК ...
+    ModBus TCP 192.168.12.1:502
+
