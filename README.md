@@ -27,10 +27,25 @@
     https://rutube.ru/video/b6698084e0667853a2b805786dc160e8/
     https://ftp.owen.ru/CoDeSys3/98_Books/RaspberryCodesysV3Faq.pdf
     https://github.com/RAA80/python-owen/tree/main
+    https://sourceforge.net/projects/pymodslave/files/latest/download   !! работает но float принимать не хочет
 
     others
     https://habr.com/ru/articles/680902/
 
+    modbus linux
+    https://www.embeddedpi.com/documentation/isolated-rs485/raspberry-pi-modbus-mbpoll-linux-installation
+    https://www.modbusdriver.com/modpoll.html
+    https://gitlab.com/helloysd/modpoll
+    scadasploit.dev/posts/2021/07/hacking-modbus-tcp-simulation-in-linux/
+    https://www.modbusdriver.com/diagslave.html
+    https://redisant.com/mse
+    https://shmmodbus.github.io/
+    https://www.dalescott.net/modbus-development/
+
 Устройства:
-    1) ПЛК ...
-    ModBus TCP 192.168.12.1:502 проверить
+    1) Owen Южгрупп
+    ModBus TCP 192.168.12.1:502 - Slave(Server)
+    coils ?
+    discrete inputs ?
+    input registers ?
+    holding registers ?
