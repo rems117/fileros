@@ -1,0 +1,220 @@
+﻿Результат выполнения команды UAC : успешно,Local HMI,LW_Bit,895100,,Неопределенный
+Результат выполнения команды UAC : неверная команда,Local HMI,LW_Bit,895101,,Неопределенный
+Результат выполнения команды UAC : аккаунт существет,Local HMI,LW_Bit,895102,,Неопределенный
+Результат выполнения команды UAC : аккаунт не существует,Local HMI,LW_Bit,895103,,Неопределенный
+Результат выполнение команды UAC : неверный пароль,Local HMI,LW_Bit,895104,,Неопределенный
+Результат выполнения команды UAC : команда запрещена,Local HMI,LW_Bit,895105,,Неопределенный
+Результат выполнения команды UAC : неверное имя,Local HMI,LW_Bit,895106,,Неопределенный
+Результат выполнение команды UAC : неверный символ в пароле,Local HMI,LW_Bit,895107,,Неопределенный
+Результат выполнения команды UAC : неверный импорт данных,Local HMI,LW_Bit,895108,,Неопределенный
+Результат выполнения команды UAC : неверный диапазон,Local HMI,LW_Bit,895109,,Неопределенный
+Привилегии UAC (Класс A ),Local HMI,LW_Bit,895300,,Неопределенный
+Привилегии UAC (Класс B ),Local HMI,LW_Bit,895301,,Неопределенный
+Привилегии UAC (Класс C ),Local HMI,LW_Bit,895302,,Неопределенный
+Привилегии UAC (Класс D ),Local HMI,LW_Bit,895303,,Неопределенный
+Привилегии UAC (Класс E ),Local HMI,LW_Bit,895304,,Неопределенный
+Привилегии UAC (Класс F ),Local HMI,LW_Bit,895305,,Неопределенный
+Привилегии UAC (Класс G ),Local HMI,LW_Bit,895306,,Неопределенный
+Привилегии UAC (Класс H ),Local HMI,LW_Bit,895307,,Неопределенный
+Привилегии UAC (Класс I ),Local HMI,LW_Bit,895308,,Неопределенный
+Привилегии UAC (Класс J ),Local HMI,LW_Bit,895309,,Неопределенный
+Привилегии UAC (Класс K ),Local HMI,LW_Bit,895310,,Неопределенный
+Привилегии UAC (Класс L ),Local HMI,LW_Bit,895311,,Неопределенный
+Команда UAC,Local HMI,LW,8950,,Неопределенный
+Результат выполнения команды UAC,Local HMI,LW,8951,,Неопределенный
+Индекс пользователя UAC,Local HMI,LW,8952,,Неопределенный
+Привилегии пользователя UAC,Local HMI,LW,8953,,Неопределенный
+Имя пользователя UAC,Local HMI,LW,8954,,Неопределенный
+Пароль UAC,Local HMI,LW,8962,,Неопределенный
+Результат выполнения команды UAC : успешно_1,Local HMI,LW_Bit,895100,,Неопределенный
+Результат выполнения команды UAC : неверная команда_1,Local HMI,LW_Bit,895101,,Неопределенный
+Результат выполнения команды UAC : аккаунт существет_1,Local HMI,LW_Bit,895102,,Неопределенный
+Результат выполнения команды UAC : аккаунт не существует_1,Local HMI,LW_Bit,895103,,Неопределенный
+Результат выполнение команды UAC : неверный пароль_1,Local HMI,LW_Bit,895104,,Неопределенный
+Результат выполнения команды UAC : команда запрещена_1,Local HMI,LW_Bit,895105,,Неопределенный
+Результат выполнения команды UAC : неверное имя_1,Local HMI,LW_Bit,895106,,Неопределенный
+Результат выполнение команды UAC : неверный символ в пароле_1,Local HMI,LW_Bit,895107,,Неопределенный
+Результат выполнения команды UAC : неверный импорт данных_1,Local HMI,LW_Bit,895108,,Неопределенный
+Результат выполнения команды UAC : неверный диапазон_1,Local HMI,LW_Bit,895109,,Неопределенный
+Привилегии UAC (Класс A )_1,Local HMI,LW_Bit,895300,,Неопределенный
+Привилегии UAC (Класс B )_1,Local HMI,LW_Bit,895301,,Неопределенный
+Привилегии UAC (Класс C )_1,Local HMI,LW_Bit,895302,,Неопределенный
+Привилегии UAC (Класс D )_1,Local HMI,LW_Bit,895303,,Неопределенный
+Привилегии UAC (Класс E )_1,Local HMI,LW_Bit,895304,,Неопределенный
+Привилегии UAC (Класс F )_1,Local HMI,LW_Bit,895305,,Неопределенный
+Привилегии UAC (Класс G )_1,Local HMI,LW_Bit,895306,,Неопределенный
+Привилегии UAC (Класс H )_1,Local HMI,LW_Bit,895307,,Неопределенный
+Привилегии UAC (Класс I )_1,Local HMI,LW_Bit,895308,,Неопределенный
+Привилегии UAC (Класс J )_1,Local HMI,LW_Bit,895309,,Неопределенный
+Привилегии UAC (Класс K )_1,Local HMI,LW_Bit,895310,,Неопределенный
+Привилегии UAC (Класс L )_1,Local HMI,LW_Bit,895311,,Неопределенный
+Команда UAC_1,Local HMI,LW,8950,,Неопределенный
+Результат выполнения команды UAC_1,Local HMI,LW,8951,,Неопределенный
+Индекс пользователя UAC_1,Local HMI,LW,8952,,Неопределенный
+Привилегии пользователя UAC_1,Local HMI,LW,8953,,Неопределенный
+Имя пользователя UAC_1,Local HMI,LW,8954,,Неопределенный
+Пароль UAC_1,Local HMI,LW,8962,,Неопределенный
+mode_sw,MODBUS TCP/IP,4x_Bit,100,,Неопределенный
+next_alarm,MODBUS TCP/IP,4x_Bit,101,,Неопределенный
+next_alarm_access,MODBUS TCP/IP,4x_Bit,102,,Неопределенный
+work,MODBUS TCP/IP,4x_Bit,103,,Неопределенный
+work_man,MODBUS TCP/IP,4x_Bit,104,,Неопределенный
+starting,MODBUS TCP/IP,4x_Bit,105,,Неопределенный
+starting_man,MODBUS TCP/IP,4x_Bit,106,,Неопределенный
+alarm,MODBUS TCP/IP,4x_Bit,107,,Неопределенный
+warning,MODBUS TCP/IP,4x_Bit,108,,Неопределенный
+temp_snr_alarm,MODBUS TCP/IP,4x_Bit,109,,Неопределенный
+temp_warning,MODBUS TCP/IP,4x_Bit,110,,Неопределенный
+fc1_warning,MODBUS TCP/IP,4x_Bit,111,,Неопределенный
+fc1_work,MODBUS TCP/IP,4x_Bit,112,,Неопределенный
+fc1_conn_alarm,MODBUS TCP/IP,4x_Bit,113,,Неопределенный
+fc1_work_man,MODBUS TCP/IP,4x_Bit,114,,Неопределенный
+fc1_starting,MODBUS TCP/IP,4x_Bit,115,,Неопределенный
+fc1_stop_cmd,MODBUS TCP/IP,4x_Bit,200,,Неопределенный
+fc1_alarm,MODBUS TCP/IP,4x_Bit,201,,Неопределенный
+fc1_not_ready,MODBUS TCP/IP,4x_Bit,202,,Неопределенный
+fc2_warning,MODBUS TCP/IP,4x_Bit,203,,Неопределенный
+fc2_work,MODBUS TCP/IP,4x_Bit,204,,Неопределенный
+fc2_conn_alarm,MODBUS TCP/IP,4x_Bit,205,,Неопределенный
+fc2_work_man,MODBUS TCP/IP,4x_Bit,206,,Неопределенный
+fc2_starting,MODBUS TCP/IP,4x_Bit,207,,Неопределенный
+fc2_stop_cmd,MODBUS TCP/IP,4x_Bit,208,,Неопределенный
+fc2_alarm,MODBUS TCP/IP,4x_Bit,209,,Неопределенный
+fc2_not_ready,MODBUS TCP/IP,4x_Bit,210,,Неопределенный
+fc3_warning,MODBUS TCP/IP,4x_Bit,211,,Неопределенный
+fc3_work,MODBUS TCP/IP,4x_Bit,212,,Неопределенный
+fc3_conn_alarm,MODBUS TCP/IP,4x_Bit,213,,Неопределенный
+fc3_work_man,MODBUS TCP/IP,4x_Bit,214,,Неопределенный
+fc3_starting,MODBUS TCP/IP,4x_Bit,215,,Неопределенный
+fc3_stop_cmd,MODBUS TCP/IP,4x_Bit,300,,Неопределенный
+fc3_alarm,MODBUS TCP/IP,4x_Bit,301,,Неопределенный
+fc3_not_ready,MODBUS TCP/IP,4x_Bit,302,,Неопределенный
+fc4_warning,MODBUS TCP/IP,4x_Bit,303,,Неопределенный
+fc4_work,MODBUS TCP/IP,4x_Bit,304,,Неопределенный
+fc4_conn_alarm,MODBUS TCP/IP,4x_Bit,305,,Неопределенный
+fc4_work_man,MODBUS TCP/IP,4x_Bit,306,,Неопределенный
+fc4_starting,MODBUS TCP/IP,4x_Bit,307,,Неопределенный
+fc4_stop_cmd,MODBUS TCP/IP,4x_Bit,308,,Неопределенный
+fc4_alarm,MODBUS TCP/IP,4x_Bit,309,,Неопределенный
+fc4_not_ready,MODBUS TCP/IP,4x_Bit,310,,Неопределенный
+fc5_warning,MODBUS TCP/IP,4x_Bit,311,,Неопределенный
+fc5_work,MODBUS TCP/IP,4x_Bit,312,,Неопределенный
+fc5_conn_alarm,MODBUS TCP/IP,4x_Bit,313,,Неопределенный
+fc5_work_man,MODBUS TCP/IP,4x_Bit,314,,Неопределенный
+fc5_starting,MODBUS TCP/IP,4x_Bit,315,,Неопределенный
+fc5_stop_cmd,MODBUS TCP/IP,4x_Bit,400,,Неопределенный
+fc5_alarm,MODBUS TCP/IP,4x_Bit,401,,Неопределенный
+fc5_not_ready,MODBUS TCP/IP,4x_Bit,402,,Неопределенный
+fc6_warning,MODBUS TCP/IP,4x_Bit,403,,Неопределенный
+fc6_work,MODBUS TCP/IP,4x_Bit,404,,Неопределенный
+fc6_conn_alarm,MODBUS TCP/IP,4x_Bit,405,,Неопределенный
+fc6_work_man,MODBUS TCP/IP,4x_Bit,406,,Неопределенный
+fc6_starting,MODBUS TCP/IP,4x_Bit,407,,Неопределенный
+fc6_stop_cmd,MODBUS TCP/IP,4x_Bit,408,,Неопределенный
+fc6_alarm,MODBUS TCP/IP,4x_Bit,409,,Неопределенный
+fc6_not_ready,MODBUS TCP/IP,4x_Bit,410,,Неопределенный
+fc7_warning,MODBUS TCP/IP,4x_Bit,411,,Неопределенный
+fc7_work,MODBUS TCP/IP,4x_Bit,412,,Неопределенный
+fc7_conn_alarm,MODBUS TCP/IP,4x_Bit,413,,Неопределенный
+fc7_work_man,MODBUS TCP/IP,4x_Bit,414,,Неопределенный
+fc7_starting,MODBUS TCP/IP,4x_Bit,415,,Неопределенный
+fc7_stop_cmd,MODBUS TCP/IP,4x_Bit,500,,Неопределенный
+fc7_alarm,MODBUS TCP/IP,4x_Bit,501,,Неопределенный
+fc7_not_ready,MODBUS TCP/IP,4x_Bit,502,,Неопределенный
+fc8_warning,MODBUS TCP/IP,4x_Bit,503,,Неопределенный
+fc8_work,MODBUS TCP/IP,4x_Bit,504,,Неопределенный
+fc8_conn_alarm,MODBUS TCP/IP,4x_Bit,505,,Неопределенный
+fc8_work_man,MODBUS TCP/IP,4x_Bit,506,,Неопределенный
+fc8_starting,MODBUS TCP/IP,4x_Bit,507,,Неопределенный
+fc8_stop_cmd,MODBUS TCP/IP,4x_Bit,508,,Неопределенный
+fc8_alarm,MODBUS TCP/IP,4x_Bit,509,,Неопределенный
+fc8_not_ready,MODBUS TCP/IP,4x_Bit,510,,Неопределенный
+fc9_warning,MODBUS TCP/IP,4x_Bit,511,,Неопределенный
+fc9_work,MODBUS TCP/IP,4x_Bit,512,,Неопределенный
+fc9_conn_alarm,MODBUS TCP/IP,4x_Bit,513,,Неопределенный
+fc9_work_man,MODBUS TCP/IP,4x_Bit,514,,Неопределенный
+fc9_starting,MODBUS TCP/IP,4x_Bit,515,,Неопределенный
+fc9_stop_cmd,MODBUS TCP/IP,4x_Bit,600,,Неопределенный
+fc9_alarm,MODBUS TCP/IP,4x_Bit,601,,Неопределенный
+fc9_not_ready,MODBUS TCP/IP,4x_Bit,602,,Неопределенный
+fc1_start_cmd,MODBUS TCP/IP,4x_Bit,603,,Неопределенный
+fc2_start_cmd,MODBUS TCP/IP,4x_Bit,604,,Неопределенный
+fc3_start_cmd,MODBUS TCP/IP,4x_Bit,605,,Неопределенный
+fc4_start_cmd,MODBUS TCP/IP,4x_Bit,606,,Неопределенный
+fc5_start_cmd,MODBUS TCP/IP,4x_Bit,607,,Неопределенный
+fc6_start_cmd,MODBUS TCP/IP,4x_Bit,608,,Неопределенный
+fc7_start_cmd,MODBUS TCP/IP,4x_Bit,609,,Неопределенный
+fc8_start_cmd,MODBUS TCP/IP,4x_Bit,610,,Неопределенный
+fc9_start_cmd,MODBUS TCP/IP,4x_Bit,611,,Неопределенный
+CoolRun,MODBUS TCP/IP,4x_Bit,612,,Неопределенный
+Defrosting,MODBUS TCP/IP,4x_Bit,613,,Неопределенный
+FixSpeed,MODBUS TCP/IP,4x_Bit,614,,Неопределенный
+CoolALARM,MODBUS TCP/IP,4x_Bit,615,,Неопределенный
+doors_opened,MODBUS TCP/IP,4x_Bit,700,,Неопределенный
+fc1_revers,MODBUS TCP/IP,4x_Bit,701,,Неопределенный
+fc2_revers,MODBUS TCP/IP,4x_Bit,702,,Неопределенный
+fc3_revers,MODBUS TCP/IP,4x_Bit,703,,Неопределенный
+fc4_revers,MODBUS TCP/IP,4x_Bit,704,,Неопределенный
+fc5_revers,MODBUS TCP/IP,4x_Bit,705,,Неопределенный
+fc6_revers,MODBUS TCP/IP,4x_Bit,706,,Неопределенный
+fc7_revers,MODBUS TCP/IP,4x_Bit,707,,Неопределенный
+fc8_revers,MODBUS TCP/IP,4x_Bit,708,,Неопределенный
+fc9_revers,MODBUS TCP/IP,4x_Bit,709,,Неопределенный
+fc1_ref_auto,MODBUS TCP/IP,4x,19,,Неопределенный
+fc1_ref_man,MODBUS TCP/IP,4x,20,,Неопределенный
+fc2_ref_auto,MODBUS TCP/IP,4x,21,,Неопределенный
+fc2_ref_man,MODBUS TCP/IP,4x,22,,Неопределенный
+fc3_ref_auto,MODBUS TCP/IP,4x,23,,Неопределенный
+fc3_ref_man,MODBUS TCP/IP,4x,24,,Неопределенный
+fc4_ref_auto,MODBUS TCP/IP,4x,25,,Неопределенный
+fc4_ref_man,MODBUS TCP/IP,4x,26,,Неопределенный
+fc5_ref_auto,MODBUS TCP/IP,4x,27,,Неопределенный
+fc5_ref_man,MODBUS TCP/IP,4x,28,,Неопределенный
+fc6_ref_auto,MODBUS TCP/IP,4x,29,,Неопределенный
+fc6_ref_man,MODBUS TCP/IP,4x,30,,Неопределенный
+fc7_ref_auto,MODBUS TCP/IP,4x,31,,Неопределенный
+fc7_ref_man,MODBUS TCP/IP,4x,32,,Неопределенный
+fc8_ref_auto,MODBUS TCP/IP,4x,33,,Неопределенный
+fc8_ref_man,MODBUS TCP/IP,4x,34,,Неопределенный
+temp_gist,MODBUS TCP/IP,4x,37,,Неопределенный
+temp_work,MODBUS TCP/IP,4x,36,,Неопределенный
+temp,MODBUS TCP/IP,4x,63,,32-bit Float
+Результат выполнения команды UAC : успешно_2,Local HMI,LW_Bit,895100,,Неопределенный
+Результат выполнения команды UAC : неверная команда_2,Local HMI,LW_Bit,895101,,Неопределенный
+Результат выполнения команды UAC : аккаунт существет_2,Local HMI,LW_Bit,895102,,Неопределенный
+Результат выполнения команды UAC : аккаунт не существует_2,Local HMI,LW_Bit,895103,,Неопределенный
+Результат выполнение команды UAC : неверный пароль_2,Local HMI,LW_Bit,895104,,Неопределенный
+Результат выполнения команды UAC : команда запрещена_2,Local HMI,LW_Bit,895105,,Неопределенный
+Результат выполнения команды UAC : неверное имя_2,Local HMI,LW_Bit,895106,,Неопределенный
+Результат выполнение команды UAC : неверный символ в пароле_2,Local HMI,LW_Bit,895107,,Неопределенный
+Результат выполнения команды UAC : неверный импорт данных_2,Local HMI,LW_Bit,895108,,Неопределенный
+Результат выполнения команды UAC : неверный диапазон_2,Local HMI,LW_Bit,895109,,Неопределенный
+Привилегии UAC (Класс A )_2,Local HMI,LW_Bit,895300,,Неопределенный
+Привилегии UAC (Класс B )_2,Local HMI,LW_Bit,895301,,Неопределенный
+Привилегии UAC (Класс C )_2,Local HMI,LW_Bit,895302,,Неопределенный
+Привилегии UAC (Класс D )_2,Local HMI,LW_Bit,895303,,Неопределенный
+Привилегии UAC (Класс E )_2,Local HMI,LW_Bit,895304,,Неопределенный
+Привилегии UAC (Класс F )_2,Local HMI,LW_Bit,895305,,Неопределенный
+Привилегии UAC (Класс G )_2,Local HMI,LW_Bit,895306,,Неопределенный
+Привилегии UAC (Класс H )_2,Local HMI,LW_Bit,895307,,Неопределенный
+Привилегии UAC (Класс I )_2,Local HMI,LW_Bit,895308,,Неопределенный
+Привилегии UAC (Класс J )_2,Local HMI,LW_Bit,895309,,Неопределенный
+Привилегии UAC (Класс K )_2,Local HMI,LW_Bit,895310,,Неопределенный
+Привилегии UAC (Класс L )_2,Local HMI,LW_Bit,895311,,Неопределенный
+Команда UAC_2,Local HMI,LW,8950,,Неопределенный
+Результат выполнения команды UAC_2,Local HMI,LW,8951,,Неопределенный
+Индекс пользователя UAC_2,Local HMI,LW,8952,,Неопределенный
+Привилегии пользователя UAC_2,Local HMI,LW,8953,,Неопределенный
+Имя пользователя UAC_2,Local HMI,LW,8954,,Неопределенный
+Пароль UAC_2,Local HMI,LW,8962,,Неопределенный
+safety,MODBUS TCP/IP,4x_Bit,710,,Неопределенный
+door_opened_1,MODBUS TCP/IP,4x_Bit,711,,Неопределенный
+door_opened_2,MODBUS TCP/IP,4x_Bit,712,,Неопределенный
+doors_alarm,MODBUS TCP/IP,4x_Bit,713,,Неопределенный
+cool_run_hand_start,MODBUS TCP/IP,4x_Bit,714,,Неопределенный
+cool_run_hand_stop,MODBUS TCP/IP,4x_Bit,715,,Неопределенный
+defrsoting_status,MODBUS TCP/IP,4x_Bit,800,,Неопределенный
+temp_to_end_defrost,MODBUS TCP/IP,4x,35,,Неопределенный
+CoolVentHandStart,MODBUS TCP/IP,4x_Bit,801,,Неопределенный
+CoolVentHandStop,MODBUS TCP/IP,4x_Bit,802,,Неопределенный
+VentOpen,MODBUS TCP/IP,4x_Bit,803,,Неопределенный
