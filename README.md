@@ -14,6 +14,7 @@
 
     modbus
     https://habr.com/ru/companies/advantech/articles/450234/
+    МАТЧАСТЬ https://ipc2u.ru/articles/prostye-resheniya/modbus-rtu/
     https://www.modbustools.com/download.html
     https://ipc2u.ru/articles/prostye-resheniya/modbus-rtu/
 
@@ -47,12 +48,32 @@
     https://shmmodbus.github.io/
     https://www.dalescott.net/modbus-development/
 
+    ruby
+    https://github.com/tallakt/modbus-cli
+
 Устройства:
-    1) Owen Южгрупп
+    1) Owen ПЛК110-60
     ModBus TCP 192.168.12.1:502 - Slave(Server)
-    coils ?
-    discrete inputs ?
-    input registers ?
-    holding registers ?
+
+    Discrete Inputs —   дискретные входы устройства, доступны только для чтения.
+                        Диапазон адресов регистров: с 10001 по 19999.
+                        Имеют функцию «02» — чтение группы регистров
+
+    Coils —             дискретные выходы устройства, или внутренние значения.
+                        Доступны для чтения и записи.
+                        Диапазон адресов регистров: с 20001 по 29999.
+                        Имеет функции: «01» — чтения группы регистров,
+                        «05» — запись одного регистра,
+                        «15» — запись группы регистров
+
+    Input Registers —   16-битные входы устройства.
+                        Доступны только для чтения.
+                        Диапазон адресов регистров: с 30001 по 39999.
+                        Имеют функцию: «04» — чтение группы регистров
+
+    Holding Registers — 16-битные выходы устройства, либо внутренние значения.
+                        Доступны для чтения и записи.
+                        Диапазон адресов регистров: с 40001 по 49999. Имеют
+
 
 
