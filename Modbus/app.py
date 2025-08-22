@@ -4,6 +4,8 @@
 """
 source:
     https://docs.golenishchev-electronics.ru/ru/smarttgm/pymodbus_smarttgm_guide
+docs:
+    https://pymodbus.readthedocs.io/en/latest/source/client.html#modbus-calls
 """
 
 import struct
@@ -17,13 +19,12 @@ ip_address = "127.0.0.1"
 port = 502
 
 
-# Function to get current time
 def current_time():
     return datetime.now().isoformat()
 
 
-# Function to convert two 16-bit registers to a float, trying both endianness
-def registers_to_float(register1, register2):
+def registers_to_float(register1, register2):  # хз, нужно ли это, пусть пока будет тут
+    """Function to convert two 16-bit registers to a float, trying both endianness"""
     try:
         # Try little-endian byte order
         packed_le = struct.pack("<HH", register1, register2)
@@ -61,7 +62,7 @@ def main():
 
             while True:
 
-                """ это пока не работает, но может еще пригодится
+                """это пока не работает, но может еще пригодится
                 # Read input registers
                 input_regs = client.read_input_registers(0, count=6)
                 print("Input Registers:", input_regs.registers)
@@ -72,6 +73,10 @@ def main():
                 registers: list = holding_regs.registers
 
                 print("Holding Registers:", registers)
+
+                client.write_register(5, 4)
+                # result = client.read_coils(0)
+                # print(result.bits[0])
 
                 # Sleep for a second
                 time.sleep(1)
