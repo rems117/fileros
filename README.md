@@ -55,7 +55,4 @@
     input registers ?
     holding registers ?
 
-Устройства:
-    1) ПЛК ...
-    ModBus TCP 192.168.12.1:502
 
