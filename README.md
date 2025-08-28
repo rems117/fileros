@@ -51,6 +51,9 @@
     ruby
     https://github.com/tallakt/modbus-cli
 
+    промышленный linux
+    https://habr.com/ru/articles/762576/
+
 Устройства:
     1) Owen ПЛК110-60
     ModBus TCP 192.168.12.1:502 - Slave(Server)
